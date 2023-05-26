@@ -1,6 +1,7 @@
 * {
     background-color: #6d1423;
     font-family: 'Courgette', cursive;
+    color: white;
 }
 
 .time {
@@ -16,7 +17,7 @@
 
 .time-2 {
     display: flex;
-    color: #FFDF00;
+    /* color: #FFDF00; */
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -47,12 +48,12 @@
 .dias {
     font-size: 100px;
     font-weight: bold;
-    color: #FFDF00;
+    /* color: #FFDF00; */
 }
 
 .dias-letra {
     font-size: 70px;
     width: 200px;
     text-align: center;
-    color: #FFDF00;
+    /* color: #FFDF00; */
 }
