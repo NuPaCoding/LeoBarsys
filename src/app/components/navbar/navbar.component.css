@@ -1,5 +1,5 @@
 * {
-  background-color: #6d1423;
+  background-color: #ea0105;
 }
 
 .containerBorde {
@@ -35,7 +35,7 @@ a:focus {
     border-bottom: 1px solid;
     background: #FFDF00;
     border-radius: 60%;
-    color: #6d1423;
+    color: #ea0105;
   }
 
   /* a:hover {
