@@ -1,0 +1,17 @@
+body {
+    background-color: #6d1423;
+    color: #000000;
+}
+
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.separador {
+    background: #FFDF00;
+    font-size: 50px;
+    color: #6d1423;
+    text-align: center;
+    font-weight: bold;
+  }

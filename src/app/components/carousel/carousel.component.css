@@ -1,0 +1,32 @@
+#carouselFadeInicio {
+    max-width: 100%;
+    margin-top: 10px;
+    padding-left: 30px;
+}
+
+.carousel-text {
+    font-family: 'Rubik', sans-serif;
+    padding-top:100px;
+    margin-top: 20px;
+    font-size: 1.4rem;
+    text-align: center;
+    font-weight: bold;
+    color: #FFDF00;
+
+    overflow: hidden;  
+    border-radius: 35px 0px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 2px solid #FFDF00;
+}
+
+.img-fluid {
+    height: 500px;
+    width: 370px;
+    border: 2px solid #FFDF00;
+}
+
+.container {
+    margin-top: 2em;
+    margin-bottom:80px ;
+}

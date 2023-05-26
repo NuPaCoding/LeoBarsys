@@ -1,0 +1,57 @@
+* {
+    background-color: #6d1423;
+}
+
+.time {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    font-size: 40px;
+    border: 3px solid #FFDF00;
+    width: 90%;
+}
+
+.time-2 {
+    display: flex;
+    color: #FFDF00;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    font-size: 40px;
+    border-radius: 20px;
+    border: 3px solid #FFDF00;
+    width: 300px;
+}
+
+.titulo-cuenta {
+    text-align: center;
+}
+
+.countdown {
+    align-items: center;
+    justify-content: center;
+}
+
+/* small {
+    font-size: 40px;
+} */
+
+.cuenta-size {
+    font-size: 70px;
+}
+
+.dias {
+    font-size: 100px;
+    font-weight: bold;
+    color: #FFDF00;
+}
+
+.dias-letra {
+    font-size: 70px;
+    width: 200px;
+    text-align: center;
+    color: #FFDF00;
+}

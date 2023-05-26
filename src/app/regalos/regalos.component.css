@@ -1,0 +1,18 @@
+.regalos {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+p {
+    margin: 30px 0;
+}
+
+.bold {
+    font-weight: bold;
+    color: white;
+}
+
+img {
+    max-width: 150px;
+}

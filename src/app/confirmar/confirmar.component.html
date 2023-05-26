@@ -1,0 +1,39 @@
+<app-separador4></app-separador4>
+
+<form class="confirmacion justify-content-center" action="https://formsubmit.co/nunezpachecojj@gmail.com" method="POST">
+    <div class="col mb-3">
+        <label for="inputName" class="col-sm-5 col-form-label"><b>Nombre y Apellido</b> (Obligatorio)</label>
+        <div class="col-sm-10">
+          <input type="" name="Nombre/s" class="form-control" id="inputName" placeholder="Si son varios en tu grupo familiar pone todos los nombres o familia completa...">
+        </div>
+      </div>
+    <div class="col mb-3">
+      <label for="inputEmail3" class="col-sm-5 col-form-label"><b>Correo electronico</b> (Obligatorio)</label>
+      <div class="col-sm-10">
+        <input type="email" name="Email" class="form-control" id="inputEmail3" placeholder="Tu correo electronico...">
+      </div>
+    </div>
+    <fieldset class="col mb-3">
+      <legend class="col-form-label col-sm-5 pt-0"><b>¿Vas a asistir?</b></legend>
+      <div class="col-sm-10">
+        <div class="form-check">
+          <input class="form-check-input" name="Asiste?" type="radio" id="gridRadios1" value="Si" checked>
+          <label class="form-check-label" for="gridRadios1">
+            Si
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="Asiste?" id="gridRadios2" value="No">
+          <label class="form-check-label" for="gridRadios2">
+            No
+          </label>
+        </div>
+      </div>
+    </fieldset>
+    <button type="submit" class="mt-2 btn btn-warning"><b>Enviar</b></button>
+
+    <input type="hidden" name="_captcha" value="false">
+    <input type="hidden" name="_next" value="./msj-enviado">
+
+  </form>
+
