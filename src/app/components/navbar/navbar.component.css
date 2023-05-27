@@ -36,6 +36,7 @@ a:focus {
     background: rgb(231, 186, 37);
     border-radius: 60%;
     color: rgb(234, 1, 5);
+    -webkit-text-stroke: 1px;
   }
 
   /* a:hover {
@@ -49,7 +50,7 @@ a:focus {
   } */
 
   a:hover {
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   .nav-link {

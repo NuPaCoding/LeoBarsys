@@ -24,10 +24,15 @@ body {
 }
 
 .separador {
-    background: rgb(231, 186, 37);
+    /* background: rgb(231, 186, 37); */
+    /* background: rgb(131, 21, 21); */
+    /* background: rgb(117, 25, 48); */
+    background-color: rgb(234, 1, 5);
     font-size: 80px;
     font-family: 'Courgette', cursive;
-    color: rgb(234, 1, 5);
+    color: rgb(231, 186, 37);
     text-align: center;
+    -webkit-text-stroke: 2px;
     font-weight: bold;
+    border: 4px solid rgb(231, 186, 37);
   }
