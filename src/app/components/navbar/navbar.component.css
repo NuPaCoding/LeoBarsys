@@ -1,5 +1,5 @@
 * {
-  background-color: #ea0105;
+  background-color: rgb(234, 1, 5);
 }
 
 .containerBorde {
@@ -33,9 +33,9 @@ font-weight: 500;
 
 a:focus {
     border-bottom: 1px solid;
-    background: #dc9d00;
+    background: rgb(220, 157, 0);
     border-radius: 60%;
-    color: #942527;
+    color: rgb(234, 1, 5);
   }
 
   /* a:hover {

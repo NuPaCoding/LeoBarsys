@@ -30,7 +30,7 @@ a {
 .card {
     padding: 0;
     background-color: rgb(247, 229, 152);
-    border: 2px solid #dc9d00;
+    border: 2px solid rgb(220, 157, 0);
 }
 
 /* .card-body {

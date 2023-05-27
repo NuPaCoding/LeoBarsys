@@ -1,6 +1,6 @@
 body {
-    background-color: #ea0105;
-    color: #000000;
+    background-color: rgb(234, 1, 5);
+    color: rgb(0, 0, 0);
 }
 
 .roboto {
@@ -24,10 +24,10 @@ body {
 }
 
 .separador {
-    background: #dc9d00;
+    background: rgb(220, 157, 0);
     font-size: 80px;
     font-family: 'Courgette', cursive;
-    color: #ea0105;
+    color: rgb(234, 1, 5);
     text-align: center;
     font-weight: bold;
   }

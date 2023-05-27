@@ -26,7 +26,7 @@
     border-radius: 35px 0px 35px 0px; 
     -moz-border-radius: 35px 0px 35px 0px; 
     -webkit-border-radius: 35px 0px 35px 0px; 
-    border: 2px solid #dc9d00;
+    border: 2px solid rgb(220, 157, 0);
 }
 
 .img-fluid {
@@ -34,7 +34,7 @@
     width: 370px; */
     height: 400px;
     width: 250px;
-    border: 2px solid #dc9d00;
+    border: 2px solid rgb(220, 157, 0);
 }
 
 .container {
