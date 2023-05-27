@@ -3,7 +3,7 @@
 }
 
 .containerBorde {
-    border: 5px solid #dc9d00;
+    border: 5px solid rgb(231, 186, 37);
     padding: 10px;
     margin:15px;
     border-radius: 20px;
@@ -33,7 +33,7 @@ font-weight: 500;
 
 a:focus {
     border-bottom: 1px solid;
-    background: rgb(220, 157, 0);
+    background: rgb(231, 186, 37);
     border-radius: 60%;
     color: rgb(234, 1, 5);
   }
@@ -54,5 +54,5 @@ a:focus {
 
   .nav-link {
     /* color: #FFDF00; */
-    color: white;
+    color: rgb(255, 255, 255);
   }

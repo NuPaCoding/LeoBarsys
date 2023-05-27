@@ -1,5 +1,5 @@
 * {
-    background-color: #ea0105;
+    background-color: rgb(234, 1, 5);
     font-family: 'Courgette', cursive;
     color: white;
 }
@@ -11,7 +11,7 @@
     justify-content: center;
     margin: 20px;
     font-size: 40px;
-    border: 3px solid #FFDF00;
+    border: 3px solid rgb(231, 186, 37);
     width: 90%;
 }
 
@@ -24,7 +24,7 @@
     margin: 20px;
     font-size: 40px;
     border-radius: 20px;
-    border: 3px solid #FFDF00;
+    border: 3px solid rgb(231, 186, 37);
     width: 300px;
 }
 

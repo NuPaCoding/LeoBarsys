@@ -1,16 +1,16 @@
 .confirmacion {
     margin: 100px;
     font-size: 20px;
-    color: white;
-    border: 2px solid rgb(220, 157, 0);
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(231, 186, 37);
     padding: 30px;
     border-radius: 5px;
 }
 
 legend {
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 label {
-    color: white;
+    color: rgb(255, 255, 255);
 }
